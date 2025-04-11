@@ -4,7 +4,7 @@ import os
 from PIL import Image
 
 # CONFIG
-MESSAGE_JSON = "messages.json"
+MESSAGE_JSON = "sample_evangelism_messages.json"
 IMAGE_DIR = "image"
 
 # Load messages
